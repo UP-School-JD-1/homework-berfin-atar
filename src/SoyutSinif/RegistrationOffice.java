@@ -9,10 +9,6 @@ public class RegistrationOffice {
         Date date = new Date();
         Student stu = null;
 
-        int i = (int) (5 * Math.random());
-
-
-
         return stu;
     }
 
