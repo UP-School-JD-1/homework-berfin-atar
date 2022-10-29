@@ -11,19 +11,9 @@ public class PhdStudent extends GraduateStudent{
 
     @Override
     public void study() {
-        System.out.println("Phd Student is studying.");
+        System.out.println("Phd Student");
     }
 
-    public void writeThesis() {
-        System.out.println("Phd Student is writing thesis...");
-    }
 
-    public void meetWithAdvisor() {
-        System.out.println("Master Student is meeting with advisor.");
-    }
-
-    public void writePaper() {
-        System.out.println("Phd Student is writing scientific article.");
-    }
 
 }
